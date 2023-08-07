@@ -1,5 +1,5 @@
 {
-  "replicate_api_token": "YOUR API TOKEN",
+  "replicate_api_token": "r8_1UmK2RMhB3P1i8GqN81sTFEdpnwsSUe4SpLbC",
   "translate_prompt": false,
   "defaults": {
     "model": "cjwbw/anything-v3-better-vae",
