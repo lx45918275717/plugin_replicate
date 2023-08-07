@@ -17,7 +17,7 @@
         "model": "stability-ai/stable-diffusion",
         "prompt": "best quality",
         "version": "db21e45d3f7023abc2a46ee38a23973f6dce16bb082a930b0c49861f96d1e5bf",
-        "image_dimensions": "512x512"
+        "image_dimensions": "1024x1024"
       },
       "desc": "使用SD模型画图"
     },
