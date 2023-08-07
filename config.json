@@ -1,6 +1,6 @@
 {
   "replicate_api_token": "r8_1UmK2RMhB3P1i8GqN81sTFEdpnwsSUe4SpLbC",
-  "translate_prompt": ture,
+  "translate_prompt": ,
   "defaults": {
     "model": "cjwbw/anything-v3-better-vae",
     "version": "09a5805203f4c12da649ec1923bb7729517ca25fcac790e640eaa9ed66573b65",
